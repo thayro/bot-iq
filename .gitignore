@@ -1,0 +1,25 @@
+# Credenciais e sessões locais
+config.json
+.env
+.env.*
+!.env.example
+*session*.json
+*cookie*.json
+*.pem
+*.key
+*.p12
+*.pfx
+# Histórico operacional e relatórios
+/daily_reports/
+/reports/
+/logs/
+*.log
+# Cache e ambientes
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

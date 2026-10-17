@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="BOT IQ — Agente visual de trading com inteligência artificial">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071326"/><stop offset=".55" stop-color="#102945"/><stop offset="1" stop-color="#092034"/></linearGradient><linearGradient id="a"><stop stop-color="#18d9bb"/><stop offset="1" stop-color="#57a5ff"/></linearGradient></defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+<g opacity=".12" stroke="#7fe9f1"><path d="M40 270H1160M40 215H1160M40 160H1160M40 105H1160M40 50H1160"/><path d="M100 35V305M250 35V305M400 35V305M550 35V305M700 35V305M850 35V305M1000 35V305"/></g>
+<g fill="none" stroke="url(#a)" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"><path d="M758 244 L815 203 L856 220 L910 125 L966 157 L1025 83 L1112 103"/></g>
+<g stroke-width="6" stroke-linecap="round"><path d="M813 170V228" stroke="#1de3b6"/><rect x="798" y="185" width="30" height="24" rx="4" fill="#1de3b6"/><path d="M876 120V206" stroke="#ee737e"/><rect x="862" y="149" width="28" height="34" rx="4" fill="#ee737e"/><path d="M1032 54V126" stroke="#1de3b6"/><rect x="1019" y="68" width="26" height="35" rx="4" fill="#1de3b6"/></g>
+<text x="69" y="128" font-family="Arial,sans-serif" font-weight="800" font-size="88" fill="#ffffff">BOT <tspan fill="#27dbc1">IQ</tspan></text>
+<text x="74" y="178" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#dcefff">AGENTE VISUAL DE TRADING</text>
+<text x="75" y="224" font-family="Arial,sans-serif" font-size="22" fill="#afc9de">Scanner de mercado  •  Ollama / Lumi  •  Telegram</text>
+<rect x="72" y="250" width="290" height="42" rx="20" fill="#123f4b" stroke="#1de3b6"/><text x="93" y="278" font-family="Arial,sans-serif" font-size="18" fill="#c9fff1">PYTHON  ·  FLASK  ·  IA LOCAL</text>
+</svg>
